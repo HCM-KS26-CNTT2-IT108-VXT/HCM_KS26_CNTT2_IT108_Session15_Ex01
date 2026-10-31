@@ -210,7 +210,5 @@ Sau khi triển khai hệ thống Hybrid Workflow kết hợp Version History, d
 * Có thể khôi phục dữ liệu khi chỉnh sửa nhầm hoặc file bị lỗi.
 * Tăng tính chuyên nghiệp trong quá trình quản lý tài liệu doanh nghiệp.
 
-
-
-#   H C M _ K S 2 6 _ C N T T 2 _ I T 1 0 8 _ S e s s i o n 1 5 _ E x 0 1  
+ 
  
