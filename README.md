@@ -1,10 +1,8 @@
 # BÀI 1: HỆ THỐNG QUẢN LÝ TÀI LIỆU DỰ ÁN DOANH NGHIỆP
-
 **Dự án:** Số hóa Bảo tàng PTIT  
 **Sinh viên thực hiện:** Võ Xuân Thịnh  
 **Mã sinh viên:** N26DTCN032  
 **Chủ đề:** Hybrid Workflow và Version History
-
 \---
 
 ## I. PHÂN TÍCH VẤN ĐỀ
@@ -210,5 +208,5 @@ Sau khi triển khai hệ thống Hybrid Workflow kết hợp Version History, d
 * Có thể khôi phục dữ liệu khi chỉnh sửa nhầm hoặc file bị lỗi.
 * Tăng tính chuyên nghiệp trong quá trình quản lý tài liệu doanh nghiệp.
 
- 
- 
+�
+�
